@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+</head>
+<style>
+    table,th,td{border:1px solid black;}
+</style>
+<body>
+    
+ <table>
+<center><h1 style="background-color:orange;">RESUME</h1></center>
+<center><img align="right" src="/images/clg.jpg"alt="my profile" width="160" height="150"></center> 
+ <h1 style="background-color:dodger blue;">BHOOMI SHARMA</h1>
+<p>CONTACT NO.:8445678465 </p>
+<p>GMAIL.ID.:bhoomisharma369@gmail.com</p>
+<p>ADDRESS:-moh.morigate anoopshahr(bulandshahr)</p>
+<hr>
+<h2 style="background-color:tomato;">EDUCATIONAL RECORD:-</h2> 
+<table style="width:100%">
+    <tr>
+        <th>class</th>
+        <th>board</th>
+        <th>school</th>
+        <th>percentage</th>
+   </tr>
+   <tr>
+    <td>10th</td>
+    <th>cbse</th>
+    <th>pspa vidya mandir</th>
+    <th>81.2</th>
+   </tr>
+   <tr>
+    <td>12th</td>
+    <th>cbse</th>
+    <th>jaypee vidya mandir</th>
+    <th>89.8</th>
+        
+        </td>
+   </tr>
+</table>
+<h2 style="background-color:tomato;">GRADUATION QUALIFICATION:-</h2>
+ <table style="width:100%">
+    <tr>
+        <th>COURSE</th>
+        <th>UNIVERSITY</th>
+        <th>SEMESTER</th>
+        <th>CGPA</th>
+   </tr>
+   <tr>
+    <td>BTECH</td>
+    <th>JAYPEE UNIVERSITY</th>
+    <th>SEMESTER 1</th>
+    <th>9.5</th>
+   </tr>
+   <tr>
+    <td>BTECH</td>
+    <th>JAYPEE UNIVERSITY</th>
+    <th>SEM 2</th>
+    <th>9.7</th>
+   </tr>
+</table>
+<h2 style="background-color: TOMATO;">TECHNICAL SKILLS:-</h2>
+<p style="color: dodgerblue;">LEARNING:- <br>html<br>css <br>javascript</p>
+
+
+ </body>
+ </html>

@@ -1,0 +1,250 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Josefin Sans',sans-serif;
+   
+}
+
+.header{
+    height: 360vh;
+    width: 100%;
+    background-color:wheat;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 10%;
+    padding-top: 20px;
+}
+
+.logo{
+    color:black;
+    font-size: 22px;
+
+}
+
+span{
+    color:brown;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 10px 25px;
+    list-style-type:none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: brown;
+}
+
+.image{
+    width:100%;
+    height: 10%;
+    margin-top: 3%;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 80%;
+    border: 20px double orange;
+}
+
+.about{
+    margin-left: 40%;
+    margin-top: 0;
+    padding-top: 0;
+}
+.about h1{
+    font-size: 60px;
+    margin-top: 70px;
+}
+
+.about p{
+    color: darkolivegreen;
+}
+
+.rect{
+    margin: 100px;
+    margin-left: 30%;
+    height: 270px;
+    width: 500px;
+    display: block;
+    border-radius: 20%;
+    border: 7px solid;
+    color:gold;
+}
+
+.rect h1{
+    margin-top: 20px;
+    text-align: center;
+    color:brown;
+    font-size: 45px;
+    letter-spacing: 0.5ex;
+    font-weight: 900;
+}
+
+.rect p{
+    margin: 25px;
+    color:darkolivegreen;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.project{
+    margin:100px;
+    margin-left: 5%;
+}
+
+.project h1{
+    text-align: center;
+    color:brown;
+    font-size: 45px;
+    letter-spacing: 0.5ex;
+    font-weight: 900;
+}
+
+.project img{
+   
+    height: 350px;
+    width: 550px;
+    display: block;
+    border-radius: 20%;
+    border: 7px solid;
+    color: gold;
+}
+
+.project p{
+    margin: 35px;
+    margin-left: 30%;
+    color:darkolivegreen;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: dodgerblue;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    letter-spacing: 0.5px;
+    padding: 20px 30px;
+    border-radius: 5000px;
+
+}
+
+.btn--download{
+    padding: 16px 32px;
+    font-size: 16px;
+    margin: 180px;
+    text-decoration: none;
+}
+
+.resume{
+    margin: 100px;
+    margin-left: 30%;
+    height: 230px;
+    width: 500px;
+    display: block;
+    border-radius: 20%;
+    border: 7px solid;
+    color: gold;
+}
+.resume h1{
+    text-transform: uppercase;
+    color: brown;
+    padding: 16px 32px;
+    margin-left: 100px;
+}
+
+.resume p{
+    padding: 10px 30px;
+    margin: 10px;
+    color:darkolivegreen;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.contact{
+  
+   padding-left: 500px;
+}
+
+.contact h1{
+    text-transform: uppercase;
+    color: brown;
+    padding: 16px 32px;
+    margin-left: 0px;
+}
+
+.contact p{
+    letter-spacing: 1px;
+}
+
+table{
+    width: 50%;
+    row-gap: 50px;
+    border-spacing: 10px;
+}
+
+footer{
+    background-color:gold;
+}
+
+.footercontainer{
+    width: 90%;
+    padding: 70px 30px 20px;
+}
+.footercontainer h1{
+    color: brown;
+   text-align: center;
+   margin-bottom: 40px;
+
+}
+
+.footerbottom p{
+    text-align: center;
+    font-weight:50 ;
+}
+
+.socialicons{
+    display: flex;
+    justify-content: center;
+
+}
+
+.socialicons a{
+    text-decoration: none;
+    padding:10px;
+    margin-left: 60px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.socialicons a i{
+    font-size: 2em;
+    color: black;
+    opacity: 0.9;
+}
+
+.socialicons a:hover{
+    background-color: black;
+    transition: 0.5s;
+}
+
+.socialicons a:hover i{
+    color: white;
+    transition: 0.5s;
+}
+
